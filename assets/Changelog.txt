@@ -1,0 +1,42 @@
+--  VERSION -- 0.24  --
+--To-do--
+
+redo all planks
+redo all armour
+redo terracotta
+
+-fixed Bee stinger facing wrong way
+
+redo sword ends
+redo side blending strips on crafting table
+check sand texture
+update End Crystal texture
+
+
+blast furnace texture redo
+furnace texture redo
+redo phantom texture
+redo iron golem
+redone spider textures
+
+
+make cobbled deepslate look less square
+redo blue dye
+redo dots on minecart
+Redo villager and zombie villager textures (1.19 update)
+Redo horses (1.20 update)
+redo Lectern books
+redo Lever
+-Set rooted dirt to not tile
+
+check iron golem texture
+check zombie villager textures
+Work on Spiders and Eyes Retexture
+redo paintings(?)
+tweak sheep feet texture
+check bamboo wrapping texture
+check white horse texture
+redo cats
+redo fish
+redo fox
+tweak all horse textures
