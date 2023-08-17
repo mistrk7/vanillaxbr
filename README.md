@@ -17,6 +17,7 @@ Following will be a list that's meant to be indicative on the progress and to-do
 | Enderman                    | <p style="color: orange;">OK</p>       | Eyes to standard                   |
 | Evoker                      | <p style="color: orange;">OK</p>       | Redo; All illagers consistent face |
 | Guardian                    | <p style="color: orange;">OK</p>       | Tweak spikes                       |
+| Elder Guardian              | <p style="color: orange;">OK</p>       | Tweak spikes                       |
 | Hoglin                      | <p style="color: orange;">OK</p>       | Eyes to standard                   |
 | Illusioner                  | <p style="color: orange;">OK</p>       | Redo; All illagers consistent face |
 | Magma cube                  | <p style="color: orange;">OK</p>       | Redo                               |
