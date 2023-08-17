@@ -7,8 +7,8 @@ Following will be a list that's meant to be indicative on the progress and to-do
 
 | Entity                      | State                                  | Note                               |
 |-----------------------------|----------------------------------------|------------------------------------|
-| Blaze                       | <p style="color: orange;">OK</p>       | Eyes to standard                   |
-| Cave spider                 | <p style="color: orange;">OK</p>       | Touchups and consistency w/ spider |
+| Blaze                       | <p style="color: green;">Fixed</p>     | Eyes to standard                   |
+| Cave spider                 | <p style="color: green;">Fixed</p>       | Touchups and consistency w/ spider |
 | Chest & Large Chest         | <p style="color: orange;">OK</p>       | Consistency tweaks                 |
 | Minecart with Chest         | <p style="color: orange;">OK</p>       | Side texture needs remake          |
 | Chicken                     | <p style="color: orange;">OK</p>       | Redo feet                          |
