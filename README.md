@@ -12,7 +12,7 @@ Following will be a list that's meant to be indicative on the progress and to-do
 | Chest & Large Chest         | <p style="color: orange;">OK</p>       | Consistency tweaks                 |
 | Minecart with Chest         | <p style="color: orange;">OK</p>       | Side texture needs remake          |
 | Chicken                     | <p style="color: green;">Fixed</p>     | Redo feet                          |
-| Dolphin                     | <p style="color: orange;">OK</p>       | Eyes to standard                   |
+| Dolphin                     | <p style="color: green;">Fixed</p>     | Eyes to standard                   |
 | Enchantment Table           | <p style="color: orange;">OK</p>       | Redo Book                          |
 | Enderman                    | <p style="color: orange;">OK</p>       | Eyes to standard                   |
 | Evoker                      | <p style="color: orange;">OK</p>       | Redo; All illagers consistent face |
