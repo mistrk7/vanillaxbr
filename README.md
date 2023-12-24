@@ -1,4 +1,4 @@
-# vanillaxbr - 1.20.2 - release 0.25
+# vanillaxbr - 1.20.4 - release 0.26
 Repository for managing updates to my Minecraft resource pack.
 
 The purpose of this is to give peope a live look into what i'm working on and to ensure better management and community insight into the project.
