@@ -9,8 +9,8 @@ Following will be a list that's meant to be indicative on the progress and to-do
 |-----------------------------|----------------------------------------|------------------------------------|
 | Blaze                       | <p style="color: green;">Fixed</p>     | Eyes to standard                   |
 | Cave spider                 | <p style="color: green;">Fixed</p>     | Touchups and consistency w/ spider |
-| Chest & Large Chest         | <p style="color: orange;">OK</p>       | Consistency tweaks                 |
-| Trapped Chest & Large Chest | <p style="color: orange;">OK</p>       | Consistency tweaks                 |
+| Chest & Large Chest         | <p style="color: green;">Fixed</p>     | Consistency tweaks                 |
+| Trapped Chest & Large Chest | <p style="color: green;">Fixed</p>     | Consistency tweaks                 |
 | Minecart                    | <p style="color: orange;">OK</p>       | Side texture needs remake          |
 | Chicken                     | <p style="color: green;">Fixed</p>     | Redo feet                          |
 | Dolphin                     | <p style="color: green;">Fixed</p>     | Eyes to standard                   |
