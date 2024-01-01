@@ -10,7 +10,8 @@ Following will be a list that's meant to be indicative on the progress and to-do
 | Blaze                       | <p style="color: green;">Fixed</p>     | Eyes to standard                   |
 | Cave spider                 | <p style="color: green;">Fixed</p>     | Touchups and consistency w/ spider |
 | Chest & Large Chest         | <p style="color: orange;">OK</p>       | Consistency tweaks                 |
-| Minecart with Chest         | <p style="color: orange;">OK</p>       | Side texture needs remake          |
+| Trapped Chest & Large Chest | <p style="color: orange;">OK</p>       | Consistency tweaks                 |
+| Minecart                    | <p style="color: orange;">OK</p>       | Side texture needs remake          |
 | Chicken                     | <p style="color: green;">Fixed</p>     | Redo feet                          |
 | Dolphin                     | <p style="color: green;">Fixed</p>     | Eyes to standard                   |
 | Enchantment Table           | <p style="color: orange;">OK</p>       | Redo Book                          |
@@ -62,7 +63,6 @@ Following will be a list that's meant to be indicative on the progress and to-do
 | Shulker                     | <p style="color: red;">Bad</p>         | Redo                               |
 | Skeleton Horse              | <p style="color: red;">Bad</p>         | Redo                               |
 | Trader Llama                | <p style="color: red;">Bad</p>         | Redo                               |
-| Trapped Chest & Large Chest | <p style="color: orange;">OK</p>       | Consistency tweaks                 |
 | Tropical Fish               | <p style="color: red;">Bad</p>         | Redo                               |
 | Villager                    | <p style="color: red;">Bad</p>         | BIG REDO                           |
 | Witch                       | <p style="color: red;">Bad</p>         | Redo                               |
