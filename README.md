@@ -11,7 +11,7 @@ Following will be a list that's meant to be indicative on the progress and to-do
 | Cave spider                 | <p style="color: green;">Fixed</p>     | Touchups and consistency w/ spider |
 | Chest & Large Chest         | <p style="color: green;">Fixed</p>     | Consistency tweaks                 |
 | Trapped Chest & Large Chest | <p style="color: green;">Fixed</p>     | Consistency tweaks                 |
-| Minecart                    | <p style="color: orange;">OK</p>       | Side texture needs remake          |
+| Minecart                    | <p style="color: orange;">Fixed</p>    | Side texture needs remake          |
 | Chicken                     | <p style="color: green;">Fixed</p>     | Redo feet                          |
 | Dolphin                     | <p style="color: green;">Fixed</p>     | Eyes to standard                   |
 | Enchantment Table           | <p style="color: orange;">OK</p>       | Redo Book                          |
