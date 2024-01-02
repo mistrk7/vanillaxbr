@@ -11,23 +11,23 @@ Following will be a list that's meant to be indicative on the progress and to-do
 | Cave spider                 | $\small\color{green}\textsf{Fixed}$     | Touchups and consistency w/ spider |
 | Chest & Large Chest         | $\small\color{green}\textsf{Fixed}$     | Consistency tweaks                 |
 | Trapped Chest & Large Chest | $\small\color{green}\textsf{Fixed}$     | Consistency tweaks                 |
-| Minecart                    | $\small\color{orange}\textsf{Fixed}$    | Side texture needs remake          |
+| Minecart                    | $\small\color{green}\textsf{Fixed}$     | Side texture needs remake          |
 | Chicken                     | $\small\color{green}\textsf{Fixed}$     | Redo feet                          |
 | Dolphin                     | $\small\color{green}\textsf{Fixed}$     | Eyes to standard                   |
 | Enchantment Table           | $\small\color{orange}\textsf{OK}$       | Redo Book                          |
 | Enderman                    | $\small\color{orange}\textsf{OK}$       | Eyes to standard                   |
-| Evoker                      | $\small\color{orange}\textsf{OK}$       | Redo; All illagers consistent face |
 | Guardian                    | $\small\color{orange}\textsf{OK}$       | Tweak spikes                       |
 | Elder Guardian              | $\small\color{orange}\textsf{OK}$       | Tweak spikes                       |
 | Hoglin                      | $\small\color{orange}\textsf{OK}$       | Eyes to standard                   |
 | Illusioner                  | $\small\color{orange}\textsf{OK}$       | Redo; All illagers consistent face |
+| Evoker                      | $\small\color{orange}\textsf{OK}$       | Redo; All illagers consistent face |
+| Vindicator                  | $\small\color{orange}\textsf{OK}$       | Redo; All illagers consistent face |
 | Magma cube                  | $\small\color{orange}\textsf{OK}$       | Redo                               |
 | Polar bear                  | $\small\color{orange}\textsf{OK}$       | Eyes to standard                   |
 | Silverfish                  | $\small\color{orange}\textsf{OK}$       | Needs tweaking                     |
 | Skeleton                    | $\small\color{orange}\textsf{OK}$       | Redo ribcage                       |
 | Snowman                     | $\small\color{orange}\textsf{OK}$       | Redo                               |
 | Husk                        | $\small\color{orange}\textsf{OK}$       | Redo w/ skele consistency          |
-| Vindicator                  | $\small\color{orange}\textsf{OK}$       | Redo; All illagers consistent face |
 | Wither Skeleton             | $\small\color{orange}\textsf{OK}$       | Redo chest                         |
 | Wolf                        | $\small\color{orange}\textsf{OK}$       | May need to tweak puppy eyes       |
 | Zoglin                      | $\small\color{orange}\textsf{OK}$       | Eyes consistency                   |
