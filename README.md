@@ -15,7 +15,7 @@ Following will be a list that's meant to be indicative on the progress and to-do
 | Chicken                     | $\small\color{green}\textsf{Fixed}$     | Redo feet                          |
 | Dolphin                     | $\small\color{green}\textsf{Fixed}$     | Eyes to standard                   |
 | Enchantment Table           | $\small\color{green}\textsf{Fixed}$     | Redo Book                          |
-| Enderman                    | $\small\color{orange}\textsf{OK}$       | Eyes to standard                   |
+| Enderman                    | $\small\color{green}\textsf{Fixed}$     | Eyes to standard (it was fine)     |
 | Guardian                    | $\small\color{orange}\textsf{OK}$       | Tweak spikes                       |
 | Elder Guardian              | $\small\color{orange}\textsf{OK}$       | Tweak spikes                       |
 | Hoglin                      | $\small\color{orange}\textsf{OK}$       | Eyes to standard                   |
