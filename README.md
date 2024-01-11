@@ -16,8 +16,8 @@ Following will be a list that's meant to be indicative on the progress and to-do
 | Dolphin                     | $\small\color{green}\textsf{Fixed}$     | Eyes to standard                   |
 | Enchantment Table           | $\small\color{green}\textsf{Fixed}$     | Redo Book                          |
 | Enderman                    | $\small\color{green}\textsf{Fixed}$     | Eyes to standard (it was fine)     |
-| Guardian                    | $\small\color{orange}\textsf{OK}$       | Tweak spikes                       |
-| Elder Guardian              | $\small\color{orange}\textsf{OK}$       | Tweak spikes                       |
+| Guardian                    | $\small\color{green}\textsf{Fixed}$     | Redo                               |
+| Elder Guardian              | $\small\color{green}\textsf{Fixed}$     | Tweaked                            |
 | Hoglin                      | $\small\color{orange}\textsf{OK}$       | Eyes to standard                   |
 | Illusioner                  | $\small\color{orange}\textsf{OK}$       | Redo; All illagers consistent face |
 | Evoker                      | $\small\color{orange}\textsf{OK}$       | Redo; All illagers consistent face |
