@@ -24,6 +24,7 @@ Following will be a list that's meant to be indicative on the progress and to-do
 | Evoker                      | $\small\color{orange}\textsf{OK}$       | Redo; All illagers consistent face |
 | Vindicator                  | $\small\color{orange}\textsf{OK}$       | Redo; All illagers consistent face |
 | Magma cube                  | $\small\color{orange}\textsf{OK}$       | Redo                               |
+| Slime                       | $\small\color{orange}\textsf{OK}$       | Check / Redo                       |
 | Polar bear                  | $\small\color{orange}\textsf{OK}$       | Eyes to standard                   |
 | Silverfish                  | $\small\color{orange}\textsf{OK}$       | Needs tweaking                     |
 | Skeleton                    | $\small\color{orange}\textsf{OK}$       | Redo ribcage                       |
