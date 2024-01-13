@@ -18,7 +18,8 @@ Following will be a list that's meant to be indicative on the progress and to-do
 | Enderman                    | $\small\color{green}\textsf{Fixed}$     | Eyes to standard (it was fine)     |
 | Guardian                    | $\small\color{green}\textsf{Fixed}$     | Redo                               |
 | Elder Guardian              | $\small\color{green}\textsf{Fixed}$     | Tweaked                            |
-| Hoglin                      | $\small\color{orange}\textsf{OK}$       | Eyes to standard                   |
+| Hoglin                      | $\small\color{green}\textsf{Fixed}$     | Eyes to standard                   |
+| Zoglin                      | $\small\color{green}\textsf{Fixed}$     | Eyes consistency                   |
 | Illusioner                  | $\small\color{orange}\textsf{OK}$       | Redo; All illagers consistent face |
 | Evoker                      | $\small\color{orange}\textsf{OK}$       | Redo; All illagers consistent face |
 | Vindicator                  | $\small\color{orange}\textsf{OK}$       | Redo; All illagers consistent face |
@@ -30,7 +31,6 @@ Following will be a list that's meant to be indicative on the progress and to-do
 | Husk                        | $\small\color{orange}\textsf{OK}$       | Redo w/ skele consistency          |
 | Wither Skeleton             | $\small\color{orange}\textsf{OK}$       | Redo chest                         |
 | Wolf                        | $\small\color{orange}\textsf{OK}$       | May need to tweak puppy eyes       |
-| Zoglin                      | $\small\color{orange}\textsf{OK}$       | Eyes consistency                   |
 | Zombie                      | $\small\color{orange}\textsf{OK}$       | Redo                               |
 | Zombified Piglin            | $\small\color{orange}\textsf{OK}$       | Redo with piglin consistency       |
 |                             |                                         |                                    |
