@@ -47,7 +47,8 @@ Following will be a list that's meant to be indicative on the progress and to-do
 | Horses                      | $\small\color{red}\textsf{Bad}$         | Redo                               |
 | Iron Golem                  | $\small\color{red}\textsf{Bad}$         | Redo                               |
 | llama                       | $\small\color{red}\textsf{Bad}$         | Redo                               |
-| Mooshroom                   | $\small\color{red}\textsf{Bad}$         | Consistency with Cow red           |
+| Mooshroom                   | $\small\color{green}\textsf{Fixed}$     | Consistency with Cow red           |
+| Brown Mooshroom             | $\small\color{green}\textsf{Fixed}$     | Consistency with Cow red           |
 | Mule                        | $\small\color{red}\textsf{Bad}$         | Redo                               |
 | Ocelot                      | $\small\color{red}\textsf{Bad}$         | Redo                               |
 | Panda                       | $\small\color{red}\textsf{Bad}$         | Redo                               |
