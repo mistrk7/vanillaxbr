@@ -1,7 +1,7 @@
 # vanillaxbr
 Repository for managing updates to my Minecraft resource pack.
 
-This is entity-dev. Initially based on the 1.20.1 branch. Development here is dedicated to remaking and improving old and existing entities in the game. This is something I intend on doing over a period of time seperate to the main releases, so i've branched it off here.
+This is entity-dev. Initially based on the 1.20.1 branch, updated for 1.20.4. Development here is dedicated to remaking and improving old and existing entities in the game. This is something I intend on doing over a period of time seperate to the main releases, so i've branched it off here.
 
 Following will be a list that's meant to be indicative on the progress and to-dos I have to do here:
 
