@@ -1,8 +1,13 @@
+<<<<<<< HEAD
 # vanillaxbr
+=======
+# vanillaxbr - 1.20.4 - dev 0.26*
+>>>>>>> parent of 84c518b (Update README.md)
 Repository for managing updates to my Minecraft resource pack.
 
 This is entity-dev. Initially based on the 1.20.1 branch, updated for 1.20.4. Development here is dedicated to remaking and improving old and existing entities in the game. This is something I intend on doing over a period of time seperate to the main releases, so i've branched it off here.
 
+<<<<<<< HEAD
 Following will be a list that's meant to be indicative on the progress and to-dos I have to do here:
 
 | Entity                      | State                                   | Note                               |
@@ -31,7 +36,7 @@ Following will be a list that's meant to be indicative on the progress and to-do
 | Snowman                     | $\small\color{orange}\textsf{OK}$       | Redo                               |
 | Husk                        | $\small\color{orange}\textsf{OK}$       | Redo w/ skele consistency          |
 | Wither Skeleton             | $\small\color{orange}\textsf{OK}$       | Redo chest                         |
-| Wolf                        | $\small\color{orange}\textsf{OK}$       | May need to tweak puppy eyes       |
+| Wolf                        | $\small\color{green}\textsf{Fixed}$     | May need to tweak puppy eyes       |
 | Zombie                      | $\small\color{orange}\textsf{OK}$       | Redo                               |
 | Zombified Piglin            | $\small\color{orange}\textsf{OK}$       | Redo with piglin consistency       |
 |                             |                                         |                                    |
@@ -70,3 +75,6 @@ Following will be a list that's meant to be indicative on the progress and to-do
 | Witch                       | $\small\color{red}\textsf{Bad}$         | Redo                               |
 | Zombie Horse                | $\small\color{red}\textsf{Bad}$         | Redo                               |
 | Zombie Villager             | $\small\color{red}\textsf{Bad}$         | BIG REDO                           |
+=======
+Feel free to create issues and we'll discuss them.
+>>>>>>> parent of 84c518b (Update README.md)
