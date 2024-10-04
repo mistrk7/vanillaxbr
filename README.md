@@ -1,13 +1,8 @@
-<<<<<<< HEAD
-# vanillaxbr
-=======
-# vanillaxbr - 1.20.4 - dev 0.26*
->>>>>>> parent of 84c518b (Update README.md)
+# vanillaxbr - 1.21.1 - dev 0.26*
 Repository for managing updates to my Minecraft resource pack.
 
-This is entity-dev. Initially based on the 1.20.1 branch, updated for 1.20.4. Development here is dedicated to remaking and improving old and existing entities in the game. This is something I intend on doing over a period of time seperate to the main releases, so i've branched it off here.
+This is entity-dev. Development here is dedicated to remaking and improving old and existing entities in the game. This is something I intend on doing over a period of time seperate to the main releases, so i've branched it off here.
 
-<<<<<<< HEAD
 Following will be a list that's meant to be indicative on the progress and to-dos I have to do here:
 
 | Entity                      | State                                   | Note                               |
@@ -77,4 +72,3 @@ Following will be a list that's meant to be indicative on the progress and to-do
 | Zombie Villager             | $\small\color{red}\textsf{Bad}$         | BIG REDO                           |
 =======
 Feel free to create issues and we'll discuss them.
->>>>>>> parent of 84c518b (Update README.md)
